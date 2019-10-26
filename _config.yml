@@ -17,7 +17,7 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: /personal
+baseurl: /
 url:  https://bennetthub500.github.io/
 author:
   name:
