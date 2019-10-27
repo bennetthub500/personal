@@ -5,16 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
 
 # Site Settings
 lang: en-US
-title: Basically Basic
+title: Basically Not Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
+baseurl: "/personal"
+url: "https://bennetthub500.github.io"
+repository: "bennetthub500/personal"
 author:
   name: Dugan Nash
   twitter: Towlette_Pettetucci
