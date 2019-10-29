@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Very Awesome Site
+title: Bennett Charles
 email: bennett@email.com
-description: it's a description
+description: Technical writer
 baseurl: /personal/
 url:  https://bennetthub500.github.io
 author:
