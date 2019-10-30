@@ -82,8 +82,8 @@ defaults:
   # _posts
   # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_portfolio"
+      type: portfolio
     values:
       layout: post
       read_time: true
