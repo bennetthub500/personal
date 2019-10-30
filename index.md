@@ -9,8 +9,9 @@ Writing and editing pro for a wide range of content and documentation.  I write 
 
 To go directly to API documentation samples go PLACEHOLDER
 
-Strong task-oriented, user-centric philosophy: In addition to content and writing, I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes.
+Task-oriented, user-centric philosophy: In addition to content and writing, I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes.
 
 Experienced cross-functional partner with sales, product, design, UX, marketing, engineering.
+
 ---
 
