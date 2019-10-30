@@ -1,8 +1,8 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /portfolio/
+collection: portfolio
 entries_layout: grid
 ---
 
