@@ -73,7 +73,7 @@ exclude:
 
 # Collections
 collections:
-  recipes:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
