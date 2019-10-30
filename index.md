@@ -12,6 +12,4 @@ To go directly to API documentation samples go PLACEHOLDER
 Task-oriented, user-centric philosophy: In addition to content and writing, I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes.
 
 Experienced cross-functional partner with sales, product, design, UX, marketing, engineering.
-
 ---
-
