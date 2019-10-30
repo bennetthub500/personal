@@ -3,7 +3,7 @@ layout: home
 paginate: true
 alt_title: "Bennett Charles"
 sub_title: "Technical writer / Communications specialist"
-image: /assets/images/cesar-carlevarino-aragon.jpg
+image: /assets/images/cesar-carlevarino-aragon copy2.jpg
 
 ---
 Writing and editing pro for a wide range of content and documentation.  I write for a broad range of audiences, including developers, users, customers. I love working across teams and demystifying complexity.
