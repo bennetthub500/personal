@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: "Basically Basic"
+alt_title: "Bennett Charles"
 sub_title: "Technical writer / Communications specialist"
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
@@ -12,6 +12,5 @@ To go directly to API documentation samples go PLACEHOLDER
 Strong task-oriented, user-centric philosophy: In addition to content and writing, I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes.
 
 Experienced cross-functional partner with sales, product, design, UX, marketing, engineering.
-
 ---
 
