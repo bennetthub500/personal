@@ -6,10 +6,9 @@ sub_title: "Technical writer / Communications specialist"
 image: /assets/images/cesar-carlevarino-aragon copy2.jpg
 
 ---
-Writing and editing pro for a wide range of content and documentation.  I write for a broad range of audiences, including developers, users, customers. I love working across teams and demystifying complexity.
 
-To go directly to API documentation samples go PLACEHOLDER
+About me: writing and editing pro for a wide range of content and documentation. 
 
-Task-oriented, user-centric philosophy: In addition to content and writing, I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes.
+To see API documentation samples go herePLACEHOLDER. The main samples list is here. PLACEHOLDER 
 
-Experienced cross-functional partner with sales, product, design, UX, marketing, engineering.
+A resume is also included.  You can find your way around via the hamburger navigation icon on each page, top right. 
