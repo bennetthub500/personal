@@ -7,8 +7,12 @@ image: /assets/images/cesar-carlevarino-aragon copy2.jpg
 
 ---
 
-About me: writing and editing pro for a wide range of content and documentation. 
+This is my portfolio website, built using Jekyll, and hosted on Github pages.  
 
-To see API documentation samples go herePLACEHOLDER. The main samples list is here. PLACEHOLDER 
+You can find your way around via the hamburger navigation icon on each page, top right.  
 
-A resume is also included.  You can find your way around via the hamburger navigation icon on each page, top right. 
+About me: a writing and editing pro for a wide range of content and documentation. 
+
+API documentation samples are herePLACEHOLDER, and the main samples list is here. PLACEHOLDER 
+
+A resume is also included.  I look forward to hearing from you on email, Github, or LinkedIn.  
