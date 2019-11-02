@@ -1,4 +1,4 @@
 ---
-title: Resume
+title: Curriculum Vitæ
 layout: page
 ---
