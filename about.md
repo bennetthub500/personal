@@ -3,12 +3,10 @@ title: "About"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+I write for a broad range of audiences, including developers, users, and customers. I love working across teams, including sales, product, design, UX, marketing, engineering.  My obsession with detail and process is a great fit with engineers. 
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+I write with a task-oriented, user-centric approach.  I love the challenge of demystifying complexity. 
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+My non-writing experience helps me do my job better. I have managed customer-to-product team feedback loop, drove input to roadmap, performed customer development interviews, and developed user journeys and prototypes. 
+
+
