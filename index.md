@@ -9,10 +9,10 @@ image: /assets/images/cesar-carlevarino-aragon copy2.jpg
 
 This is my portfolio website, built using Jekyll, and hosted on Github pages.  
 
-You can find your way around via the hamburger navigation icon on each page, top right.  
+You can find your way around via the hamburger navigation icon in the top right corner of each page. 
 
 About me: a writing and editing pro for a wide range of content and documentation. 
 
-API documentation samples are herePLACEHOLDER, and the main samples list is here. PLACEHOLDER 
+API documentation samples are herePLACEHOLDER, and the main samples list is [here.](https://bennetthub500.github.io/personal/portfolio/) 
 
-A resume is also included.  I look forward to hearing from you on email, Github, or LinkedIn.  
+A resume is also included.  I look forward to hearing from you on email, Github, or [LinkedIn.](https://www.linkedin.com/in/bennett-charles-690978/)  
