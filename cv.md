@@ -14,7 +14,7 @@ Technical writer and editor of content for a diverse range of audiences.
 **Authoring and publishing**: Jekyll, Github Pages, MS Word, MS Sharepoint, Confluence, WordPress,   MediaWiki<br/>
 **Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
 **Programming**:  Can read Python, JavaScript<br/>
-**Operating Systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
+**Operating systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
 **Online courses**:  Coding for Writers, Basic Programming (Udemy); Learn API Technical Writing, JSON and XML for Writers (Udemy) 
 
 **History**
