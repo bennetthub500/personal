@@ -3,8 +3,8 @@ title: Curriculum Vitæ
 layout: page
 ---
 
-Bennett Charles
-San Mateo, CA
+Bennett Charles<br/>
+San Mateo, CA<br/>
 bennettcharles100@gmail.com
 
 **Summary**
