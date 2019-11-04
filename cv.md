@@ -11,13 +11,13 @@ bennettcharles100@gmail.com
 
 Technical writer and editor of content for a diverse range of audiences.
 
-**Authoring and publishing**: Jekyll, Github Pages, MS Word, MS Sharepoint, Confluence, WordPress,   MediaWiki
-**Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM
-**Programming**:  Can read Python, JavaScript
-**Operating Systems**: Mac OS, Apple iOS, Windows 10, Android
+**Authoring and publishing**: Jekyll, Github Pages, MS Word, MS Sharepoint, Confluence, WordPress,   MediaWiki<br/>
+**Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
+**Programming**:  Can read Python, JavaScript<br/>
+**Operating Systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
 **Online courses**:  Coding for Writers, Basic Programming (Udemy); Learn API Technical Writing, JSON and XML for Writers (Udemy) 
 
-History
+**History**
 
 **Communications, Office of Santa Clara County Supervisor Joe Simitian**
 February 2018 - July 2019, San Jose, CA
@@ -50,7 +50,7 @@ January 2005 – September 2007,  Oakland, CA
 - David and Lucile Packard Foundation - Generated coverage of public policy research and for universal preschool and children’s health insurance programs
 - Viewpoint Learning - Promoted health insurance policy consensus-building events in Bay Area
 
-**Education**
+**Education**<br/>
 Master’s Degree in Public Administration
 Program in Public and Nonprofit Management and Policy
 New York University
