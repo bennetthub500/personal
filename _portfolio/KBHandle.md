@@ -1,5 +1,5 @@
 ---
-title: Knowledge base/help content: Handle
+title: "Knowledge base/help content: Handle"
 ---
 
 # Freshdesk Knowledge Base Content for Handle mobile app
