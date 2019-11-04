@@ -1,7 +1,7 @@
 ---
-title: Case study: OpsTechnology
+title: "Case study: OpsTechnology"
 ---
-#Case study sample for OpsTechnology - 400 words
+Case study sample for OpsTechnology - 400 words
 
 **Audience profile**: vendors who sell products to multi-family real estate management companies.  The goal is to recruit more participants for the web-based vendor marketplace from which management companies can purchase.  Reader demographics vary; many but not all are college educated, and most have limited experience with business SaaS technology.
 
