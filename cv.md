@@ -5,11 +5,11 @@ layout: page
 
 Bennett Charles<br/>
 San Mateo, CA<br/>
-bennettcharles100@gmail.com
+[Email](bennettcharles100@gmail.com)
 
 **Summary**
 
-Technical writer and editor of content for a diverse range of audiences.
+Technical writer and editor of content for a diverse range of audiences
 
 **Authoring and publishing**: Jekyll, Github Pages, MS Word, MS Sharepoint, Confluence, WordPress,   MediaWiki<br/>
 **Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
@@ -29,9 +29,9 @@ February 2018 - July 2019, San Jose, CA
 **Tech Communications and Operations Consultant**
 August 2010 -- July 2017
 Highlights:
-- Handle (mobile+web email/to-do app) – Content for support, community and product, including knowledge base and UI content. Conducted UX lab & diary studies, customer journey mapping, surveys, customer development interviews; launched mobile app to 100,000 users; drove input to roadmap with voice of customer emphasis; analyzed user data re: feature adoption & churn
-- Buyer's Best Friend (web b2b food marketplace) – Hired, managed, trained data and onboarding team of 10; wrote user manuals, managed customer service and Tier 1 and 2 support. Developed metrics to analyze transaction and exception trends; Grew free seller base 5X under VP of Sales - "sold" to freemium catalog customers. Oversaw 9X catalog growth
-- Salesforce – Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
+- *Handle* (mobile+web email/to-do app) – Content for support, community and product, including knowledge base and UI content. Conducted UX lab & diary studies, customer journey mapping, surveys, customer development interviews; launched mobile app to 100,000 users; drove input to roadmap with voice of customer emphasis; analyzed user data re: feature adoption & churn
+- *Buyer's Best Friend* (web b2b food marketplace) – Hired, managed, trained data and onboarding team of 10; wrote user manuals, managed customer service and Tier 1 and 2 support. Developed metrics to analyze transaction and exception trends; Grew free seller base 5X under VP of Sales - "sold" to freemium catalog customers. Oversaw 9X catalog growth
+- *Salesforce* – Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
 
 **Principal, Trend Effect Communications**
 June 2008 – May 2010,  San Francisco, CA
