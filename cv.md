@@ -51,8 +51,8 @@ January 2005 – September 2007,  Oakland, CA
 - Viewpoint Learning - Promoted health insurance policy consensus-building events in Bay Area
 
 **Education**<br/>
-Master’s Degree in Public Administration
-Program in Public and Nonprofit Management and Policy
+
+M.P.A., Program in Public and Nonprofit Management and Policy
 New York University
 
 B.A., Psychology
