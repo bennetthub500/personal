@@ -14,7 +14,7 @@ To help usget our next-gen mobile app across the finish line, we're looking for 
 
 And thank you for all the thoughtful feedback on multiple accounts last month - we love hearing about features in action. 
 
-Best, 
+Best,<br/>
 Shawn Carolan, CEO, Handle
 
 **Email Signatures**<br/>
