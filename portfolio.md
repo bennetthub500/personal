@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 ---
 
-#Writing samples 
+Writing samples 
