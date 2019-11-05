@@ -2,7 +2,7 @@
 title: "Press release: complex public topic"
 ---
 
-Press release explaining a complex public topic, a traffic initiative that created safe ways for students to walk and bike to school.
+Journalistic press release explaining a complex public topic, a traffic initiative that created safe routes for students to walk and bike to school.
 
 Written for Santa Clara County Supervisor Joe Simitian in the style of a newspaper story, 860 words.  This style enables easy cut and paste re-use by journalists or editors at budget-strapped local publications.
 
