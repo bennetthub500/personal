@@ -17,12 +17,12 @@ And thank you for all the thoughtful feedback on multiple accounts last month - 
 Best, 
 Shawn Carolan, CEO, Handle
 
-**Email Signatures**
+**Email Signatures**<\br>
 Highly requested (thank you, Jon, Bob, Mike, and others!) and now delivered: a unique email signature for each of your accounts.  Find it under the "Settings" gear icon. 
 
-**Your Inbox, Faster**
+**Your Inbox, Faster**<\br>
 If you have the need for speed, smile.  We've improved the way Handle fetches email from the Gmail server so that it's even more responsive, especially at login time. 
 
-**iOS Beta Trial**
+**iOS Beta Trial**<\br>
 To apply, please click here.  We're very grateful to have clients who are so eager to provide feedback and solve their email overload once and for all. Thank you Vytenis, Mike, Jason, Chris, and 33 others for accelerating this on the roadmap.
 
