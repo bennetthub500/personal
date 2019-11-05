@@ -10,7 +10,7 @@ Dear Clients,
 
 Team Handle has been hard at work on two major improvements: inbox loading performance (done) and our next-generation mobile experience (coming soon.)
 
-To help usget our next-gen mobile app across the finish line, we're looking for a few mobile mavens who love giving feedback and promise not to leave their iPhone at the bar.  If interested, please signup here. 
+To help us get our next-gen mobile app across the finish line, we're looking for a few mobile mavens who love giving feedback and promise not to leave their iPhone at the bar.  If interested, please signup here. 
 
 And thank you for all the thoughtful feedback on multiple accounts last month - we love hearing about features in action. 
 
