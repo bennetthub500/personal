@@ -1,5 +1,5 @@
 ---
-title: Press release: complex traffic topic
+title: "Press release: complex public topic"
 ---
 
 Press release explaining a complex public topic, a traffic initiative that created safe ways for students to walk and bike to school.
