@@ -2,8 +2,8 @@
 title: Curriculum Vitæ
 layout: page
 ---
-##Download PDF<br/>
-##Download Word<br/>
+## Download PDF<br/>
+## Download Word<br/>
 
 Bennett Charles<br/>
 San Mateo, CA<br/>
