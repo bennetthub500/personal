@@ -38,11 +38,11 @@ Highlights:<br/>
 *Handle* (mobile+web email/to-do app)<br/>
 - Content for support, community and product, including knowledge base 
 - Conducted UX lab studies, journey mapping, surveys, customer development interviews 
-- Launched mobile app to 100,000 users; drove input to roadmap as voice of customer; analyzed user data re: feature adoption & churn
+- Launched mobile app to 100,000 users; drove input to roadmap as voice of customer; analyzed user data re: feature adoption & churn<br/>
 *Buyer's Best Friend* (web b2b food marketplace)<br/>
 - Hired, managed, trained data and onboarding team of 10 
 - Wrote user manuals, managed customer service and Tier 1 and 2 support 
-- Grew seller catalog 5X "selling" freemium listings; oversaw 9X catalog growth
+- Grew seller catalog 5X "selling" freemium listings; oversaw 9X catalog growth<br/>
 *Salesforce*<br/>
 – Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
 
