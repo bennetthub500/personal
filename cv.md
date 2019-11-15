@@ -3,7 +3,7 @@ title: Curriculum Vitæ
 layout: page
 ---
 ### <a href="Bennett_Charles_2019.pdf">Download PDF</a><br/>
-### Download Word<br/>
+### <a href="Bennett_Charles_2019.docx">Download Word</a><br/>
 
 Bennett Charles<br/>
 San Mateo, CA<br/>
