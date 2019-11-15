@@ -33,7 +33,7 @@ February 2018 - July 2019, San Jose, CA
 - Project-managed public events, video and photography production, website design 
 
 **Tech Communications and Operations Consultant**
-August 2010 -- July 2017
+August 2010 -- July 2017<br/>
 Highlights:<br/>
 *Handle* (mobile+web email/to-do app)<br/>
 - Content for support, community and product, including knowledge base 
@@ -44,7 +44,7 @@ Highlights:<br/>
 - Wrote user manuals, managed customer service and Tier 1 and 2 support 
 - Grew seller catalog 5X "selling" freemium listings; oversaw 9X catalog growth<br/>
 *Salesforce*<br/>
-– Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
+- Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
 
 **Principal, Trend Effect Communications**
 June 2008 – May 2010,  San Francisco, CA
