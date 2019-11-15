@@ -34,16 +34,16 @@ February 2018 - July 2019, San Jose, CA
 
 **Tech Communications and Operations Consultant**
 August 2010 -- July 2017
-Highlights:
-*Handle* (mobile+web email/to-do app)  
+Highlights:<br/>
+*Handle* (mobile+web email/to-do app)<br/>
 - Content for support, community and product, including knowledge base 
 - Conducted UX lab studies, journey mapping, surveys, customer development interviews 
 - Launched mobile app to 100,000 users; drove input to roadmap as voice of customer; analyzed user data re: feature adoption & churn
-*Buyer's Best Friend* (web b2b food marketplace) 
+*Buyer's Best Friend* (web b2b food marketplace)<br/>
 - Hired, managed, trained data and onboarding team of 10 
 - Wrote user manuals, managed customer service and Tier 1 and 2 support 
 - Grew seller catalog 5X "selling" freemium listings; oversaw 9X catalog growth
-*Salesforce* 
+*Salesforce*<br/>
 – Dreamforce sales meeting planning between sales teams, customers, and Salesforce subject-matter executives/experts with the Executive Briefing Center team
 
 **Principal, Trend Effect Communications**
