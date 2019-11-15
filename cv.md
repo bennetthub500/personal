@@ -33,7 +33,7 @@ February 2018 - July 2019, San Jose, CA
 - Project-managed public events, video and photography production, website design 
 
 **Tech Communications and Operations Consultant**
-August 2010 -- July 2017<br/>
+August 2010 - July 2017<br/>
 Highlights:<br/>
 
 *Handle* (mobile+web email/to-do app)<br/>
