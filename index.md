@@ -15,4 +15,4 @@ About me: a writing and editing pro for a wide range of content and documentatio
 
 API documentation and other writing samples are [here.](https://bennetthub500.github.io/personal/portfolio/) 
 
-An online [resume](https://bennetthub500.github.io/personal/cv.html) is also included.  I look forward to hearing from you on email, Github, or [LinkedIn.](https://www.linkedin.com/in/bennett-charles-690978/)  
+An online [resume](https://bennetthub500.github.io/personal/cv.html) is also included.  I look forward to hearing from you on email or [LinkedIn.](https://www.linkedin.com/in/bennett-charles-690978/)  
