@@ -1,5 +1,5 @@
 ---
-title: Instructions sample: How to re-pot plants
+title: "Instructions sample: How to re-pot plants"
 ---
 
 Instructional sample: How to re-pot plants
