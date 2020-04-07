@@ -1,5 +1,5 @@
 ---
-title: "Marketing copy sample: sales automation startup"
+title: "Marketing copy: sales automation startup"
 ---
 
 Campaign landing pages copy 
