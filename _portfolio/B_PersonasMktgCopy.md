@@ -10,4 +10,4 @@ The audience for the [first piece](https://github.com/bennetthub500/personal/blo
 The stylistic goals for both were brevity, with punchy language, a crisp definition of benefits and deliberate repetition. 
 
 
-![Founder-targeted landing page(https://github.com/bennetthub500/personal/blob/master/assets/images/PersonasFoundersLanding.pdf)
+![Founder-targeted landing page](https://github.com/bennetthub500/personal/blob/master/assets/images/PersonasFoundersLanding.pdf)
