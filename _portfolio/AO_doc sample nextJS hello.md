@@ -22,11 +22,11 @@ You will see a version number in response if it is installed. Confirm whether th
 
 Now check to see if npx and npm are installed.
 ```
-  npx -v
+npx -v
 ```
 and
 ```
-  npm -v 
+npm -v 
 ```
 
 NPX is bundled with NPM, so if you have one, you should have the other. Note that there are many ways to install these packages, which can affect the control of permissions on your computer, but this is outside of the scope of this tutorial. To keep it simple, if either Node or NPM are not installed, you can either install them from their respective websites, or install package managers such as [Yarn](https://yarnpkg.com/getting-started/migration) or [Brew](https://brew.sh)
@@ -93,7 +93,7 @@ Type the following, or copy and paste it, into Button.js and save:
 6
 ---
 
-The next step is to import the React button component.  Navigate to /pages/index.js and open it. It should look like this:
+The next step is to import the React button component.  Navigate to hello-world/pages/index.js and open it. It should look like this:
 
 ![screenshot](/assets/images/import_button_editor_before_adding_copy.png)
 
@@ -107,7 +107,7 @@ After the </Link> component, type
 ```
 Your code should now look like the following:
 
-![screenshot](/assets/images/button_js_in_editor_copy.png)
+![screenshot](/assets/images/import_button_after_adding.png)
 
 
 7
