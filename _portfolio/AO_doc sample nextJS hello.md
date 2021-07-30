@@ -103,7 +103,7 @@ import Button from '../components/Button'
 ```
 After the `</Link>` component, type
 ```
-  <Button />
+<Button />
 ```
 Your code should now look like the following:
 
