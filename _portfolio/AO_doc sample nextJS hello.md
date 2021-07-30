@@ -107,7 +107,7 @@ After the `</Link>` component, type
 ```
 Your code should now look like the following:
 
-![screenshot](/assets/images/import_button_after_adding.png)
+![screenshot](https://bennetthub500.github.io/personal/assets/images/import_button_after_adding.png)
 
 
 7
