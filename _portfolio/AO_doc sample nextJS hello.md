@@ -115,7 +115,7 @@ Your code should now look like the following:
 
 Visit http://localhost:3000 in a web browser to see the final result with the new button.
 
-![screenshot](/assets/images/localhost_final_screen_copy.png)
+![screenshot](https://bennetthub500.github.io/personal/assets/images/localhost_final_screen_copy.png)
 
 You have now successfully installed a React component to the Hello World Next.js app.
 
