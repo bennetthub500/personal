@@ -62,7 +62,7 @@ Next, stop the development server by using CTRL + C.
 
 4
 ---
- 
+
 Go to the user directory on your computer and find the hello-world folder we created earlier. Alternately, you can use a code editor to navigate the directory and create files and folders.
 
 Click on the hello-world folder.
