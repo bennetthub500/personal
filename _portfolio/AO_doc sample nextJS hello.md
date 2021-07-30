@@ -67,7 +67,7 @@ Go to the user directory on your computer and find the hello-world folder we cre
 
 Click on the hello-world folder.
 
-![screenshot](/assets/images/directory_hello_folder.png)
+![screenshot](https://bennetthub500.github.io/personal/assets/images/directory_hello_folder.png)
 
 
 5
