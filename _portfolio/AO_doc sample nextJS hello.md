@@ -95,7 +95,7 @@ Type the following, or copy and paste it, into Button.js and save:
 
 The next step is to import the React button component.  Navigate to hello-world/pages/index.js and open it. It should look like this:
 
-![screenshot](/assets/images/import_button_editor_before_adding_copy.png)
+![screenshot](https://bennetthub500.github.io/personal/assets/images/import_button_editor_before_adding_copy.png)
 
 After the first line of code at the top of the index.js file, type or paste in the following as shown below:
 ```
