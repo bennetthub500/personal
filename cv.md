@@ -11,7 +11,7 @@ San Mateo, CA<br/>
 
 **Summary**
 
-Technical writer and editor of content for a diverse range of audiences
+Technical writer and editor for a diverse range of audiences, including developers, users, and customers.  Versatile content creator and collaborator with product, design, UX, marketing, sales, engineering.
 
 **Authoring and publishing**: Markdown, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress, MediaWiki<br/>
 **Technical tools**:  Github, Postman, Stoplight, Swagger, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
