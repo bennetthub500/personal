@@ -8,7 +8,7 @@ This tutorial enables you to create a Hello World page using Next.js, Node.js, a
 
 [Next.js](https://nextjs.org) is a front-end framework for building apps or sites utilizing React components. [React](https://reactjs.org) is a JavaScript library for building user interfaces. Next.js is built on top of [Node.js](https://nodejs.org/en/), a runtime environment that allows you to run JavaScript on a server, not just your browser. [npm](https://www.npmjs.com) is the package manager for Node.js.
 
-Instructions and images assume MacOS, but there is no significant difference for Windows. 
+Instructions and images assume you are using MacOS, but there is no significant difference for Windows. 
 
 
 1
@@ -117,6 +117,6 @@ Visit http://localhost:3000 in a web browser to see the final result with the ne
 
 ![screenshot](https://bennetthub500.github.io/personal/assets/images/localhost_final_screen_copy.png)
 
-You have now successfully installed a React component to the Hello World Next.js app.
+You have now successfully installed a React component with the Hello World Next.js app.
 
 For an introduction to CSS in React, you can style the button with CSS Modules in React. Next.js has [native support](https://nextjs.org/docs/basic-features/built-in-css-support#adding-component-level-css) for CSS Modules.
