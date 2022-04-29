@@ -13,7 +13,7 @@ San Mateo, CA<br/>
 
 Technical writer and editor of content for a diverse range of audiences
 
-**Authoring and publishing**: Jekyll, Github Pages, MS Word, MS Sharepoint, Confluence, WordPress,   MediaWiki<br/>
+**Authoring and publishing**: Markdown, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress, MediaWiki<br/>
 **Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
 **Programming**:  Can read Python, JavaScript<br/>
 **Operating systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
@@ -21,8 +21,12 @@ Technical writer and editor of content for a diverse range of audiences
 
 **History**
 
-**Technical writer and communications consultant**
-October 2019 - Current, San Mateo, CA
+**Technical Writer, Kick Designs**
+August 2021 - Current, San Francisco, CA
+- Edited and wrote reference and implementation documentation for security and database clients in a docs-as-code environment using Github and various publishing platforms.
+
+**Technical Writer and Communications Consultant**
+October 2019 - July 2021, San Mateo, CA
 - Initial projects: GraphQl API developer documentation and publishing toolchain requirements/setup for an AI startup.  Also focusing on REST API, end-user documentation and marketing content
 
 **Communications, Office of Santa Clara County Supervisor Joe Simitian**
