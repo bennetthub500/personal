@@ -14,7 +14,7 @@ San Mateo, CA<br/>
 Technical writer and editor of content for a diverse range of audiences
 
 **Authoring and publishing**: Markdown, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress, MediaWiki<br/>
-**Technical tools**:  Postman, Stoplight, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
+**Technical tools**:  Github, Postman, Stoplight, Swagger, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
 **Programming**:  Can read Python, JavaScript<br/>
 **Operating systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
 **Online courses**:  Coding for Writers, Basic Programming (Udemy); Learn API Technical Writing, JSON and XML for Writers (Udemy) 
