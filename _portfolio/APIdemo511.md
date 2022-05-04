@@ -2,7 +2,7 @@
 title: "API documentation demo"
 ---
 
-This is a demo of REST API reference documentation using the Open API v3.0 spec using Swagger. 
+This is a demo of REST API reference documentation for public transit data using the Open API v3.0 spec. 
 
 The content is located in a YAML file and is hosted on SmartBear's Swaggerhub website.   
 
