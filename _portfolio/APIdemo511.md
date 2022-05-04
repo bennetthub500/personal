@@ -8,4 +8,4 @@ The [demonstration](https://app.swaggerhub.com/apis-docs/bennetthub500/511v2/1.0
 
 My current API documentation experience is with material covered by an NDA that can't be shared. I created this abbreviated demo to provide an approximation of my API docs knowledge. 
 
-**Note:** Detailed information re: the full range of parameters, responses, error messages, etc. is not included. The content is located in a YAML file and is hosted on SmartBear's Swaggerhub website.  This demo was created by me without the assistance of anyone at 511.org. 
+**Note:** Detailed information re: the full range of parameters, responses, error messages, etc. is not included. The Swagger UI does not allow the use of tables to display content.  The content is located in a YAML file and is hosted on SmartBear's Swaggerhub website.  This demo was created by me without the assistance of anyone at 511.org. 
