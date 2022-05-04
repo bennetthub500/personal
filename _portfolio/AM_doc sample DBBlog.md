@@ -72,4 +72,4 @@ One of DatabaseCo’s customers has massive amounts of change data, and utilizes
 
 If the customer wants to put this data into a data warehouse that cannot map _ID, the customer would have to cycle through the multiple events stored in their database. This means they would need to run a base query followed by additional event queries to get to the latest value state.  This process is extremely computationally expensive and time consuming. 
 
-DatabaseCo eliminates this problem and provides a more efficient solution. If DatabaseCo maps _ID, only the latest state of all records are stored, and all incoming events are deduplicated. Therefore the customer only needs to query the latest state. DatabaseCo enables customers to reduce their query processing time from minutes, down to milliseconds. 
+DatabaseCo eliminates this problem and provides a more efficient solution. If DatabaseCo maps _ID, only the latest state of all records are stored, and all incoming events are deduplicated. Therefore the customer only needs to query the latest state. DatabaseCo enables customers to reduce their query processing time from minutes down to milliseconds. 
