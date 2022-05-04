@@ -6,6 +6,4 @@ This is a demonstration of REST API documentation and publishing for public tran
 
 The [demonstration](https://app.swaggerhub.com/apis-docs/bennetthub500/511v2/1.0.0) allows the reader to make API calls and view the response on a web page. I took two endpoints from the API of 511.org, a San Francisco Bay Area transit organization, and implemented them in the Open API spec, with brief instructions for authentication and brief reference information.  
 
-The content is located in a YAML file and is hosted on SmartBear's Swaggerhub website.  
-
-This demo was created by me without the assistance of anyone at 511.org. 
+My current API documentation experience is with NDA'd material that can't be shared, so I created this abbreviated demo to show my understanding of API material. The content is located in a YAML file and is hosted on SmartBear's Swaggerhub website.  This demo was created by me without the assistance of anyone at 511.org. 
