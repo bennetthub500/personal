@@ -26,7 +26,7 @@ Before DatabaseCo, there were 3 general ways you could deduplicate:
 - During ETL jobs.
 - At query time. 
 
-### Stop Duplication Before it Happens.
+### Stop Duplication Before it Happens
 
 You can attempt to stop deduplication before it happens.  This would be ideal, but requires difficult and costly work to identify the location and causes of the duplication. 
 
