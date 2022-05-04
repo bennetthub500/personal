@@ -4,4 +4,4 @@ title: "API documentation demo"
 
 This is a demo of REST API reference documentation using the Open API v3.0 spec. The content is located in a YAML file. This implementation allows the reader to make API calls and view the response on the web page.  
 
-The [demo example](https://app.swaggerhub.com/apis-docs/bennetthub500/511v2/1.0.0)is hosted on SmartBear's Swaggerhub website. I took two endpoints from 511.org's Bay Area Rapid Transit API and implemented them in the Open API spec, with brief instructions.  
+The [demo example](https://app.swaggerhub.com/apis-docs/bennetthub500/511v2/1.0.0) is hosted on SmartBear's Swaggerhub website. I took two endpoints from 511.org's Bay Area Rapid Transit API and implemented them in the Open API spec, with brief instructions.  
