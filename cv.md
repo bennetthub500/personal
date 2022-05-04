@@ -2,10 +2,10 @@
 title: Curriculum Vitæ
 layout: page
 ---
-### <a href="Bennett_Charles_2019.pdf">Download PDF</a><br/>
-### <a href="Bennett_Charles_2019.docx">Download Word</a><br/>
+### <a href="Bennett_Charles_2022-2.pdf">Download PDF</a><br/>
+### <a href="Bennett_Charles_2022.docx">Download Word</a><br/>
 
-Bennett Charles<br/>
+### Bennett Charles<br/>
 San Mateo, CA<br/>
 <a href="mailto:bennettcharles100@gmail.com">Email</a>
 
