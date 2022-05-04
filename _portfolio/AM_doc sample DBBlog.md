@@ -8,16 +8,16 @@ The client has been anonymized in this 750-word piece.
 
 ## How DatabaseCo Handles Data Deduplication 
 
-“There are two major problems with distributed data systems. The second is out of order messages. The first is duplicate messages. The third is off-by-one errors… And the first is duplicate messages.”  Yes, this is a vintage example of database humor.  But it also illustrates the inspiration for DatabaseCo to solve the data duplication issue, which we call deduplication.  This blog post is a high-level overview of how DatabaseCo solves this problem through field transformations. 
+“There are two major problems with distributed data systems. The second is out of order messages. The first is duplicate messages. The third is off-by-one errors… And the first is duplicate messages.”  Yes, this is a vintage example of database humor.  But it also illustrates the inspiration for DatabaseCo to solve the data duplication issue, which we call deduplication.  This blog post is a high-level overview of how DatabaseCo solves deduplication through field transformations. 
 
 ### The Deduplication Problem 
 
 In distributed systems, messages get passed back and forth between many locations, and it’s common for messages to be generated two or more times.  A system may create a duplicate message because:
-A confirmation was not sent.
-The message was replicated before it was sent.  
-Messages are delivered out of order. 
+- A confirmation was not sent.
+- A message was replicated before it was sent.  
+- Messages were delivered out-of-order. 
 
-The message can be received multiple times with the same information by the time it gets to a database management system. Therefore, your system needs to ensure that data received multiple times doesn’t create duplicate records.  These duplicated messages must be consolidated into a single message.  
+A message can be received multiple times with the same information by the time it gets to a database management system. Therefore, your system needs to ensure that data received multiple times doesn’t create duplicate records.  These duplicated messages must be consolidated into a single message.  
 
 ### Deduplication Solutions
 
@@ -42,17 +42,18 @@ And these are not the only causes. This solution to deduplication requires an in
 ### Stop Duplication During ETL Jobs
 
 Stream-processing ETL jobs is another deduplication option. This method involves deduplication during data stream consumption. These include:
-Introducing an ETL job with KSQL.
-Creating a compacted topic.
-Performing a SQL transformation.
-Performing a Spark job that would work across the streams. 
+- Introducing an ETL job with KSQL.
+- Creating a compacted topic.
+- Performing a SQL transformation.
+- Performing a Spark job that would work across the streams. 
 
 In order for deduplication to be effective using the stream-processing ETL jobs method, you must ensure the ETL jobs run throughout your system.
 
 ### Stop Duplication at Query Time
 
 Attempting to solve the deduplication problem at query time is another method.  However, this involves adding complexity to your query. This is risky because query errors could occur.  For example, if your solution is based on time, but the duplicate messages are delayed by one second instead of 50 milliseconds, the timestamp on the duplicate messages will be beyond your query syntax setup.  
-How DatabaseCo Solves Deduplication
+
+### How DatabaseCo Solves Deduplication
 
 DatabaseCo solves the deduplication problem through unique SQL transformations.  When you bring data into DatabaseCo, you can create SQL transformations that enable you to: 
 - Identify a single key.
