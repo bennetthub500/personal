@@ -7,12 +7,8 @@ image: /assets/images/cesar-carlevarino-aragon copy2.jpg
 
 ---
 
-This is my portfolio website, built using Jekyll, and hosted on Github pages.  
+Hi, I'm Bennett. This is my technical writing portfolio website, built using Jekyll and Markdown, and hosted on Github pages.  
 
 You can find your way around via the hamburger navigation icon in the top right corner of each page. 
 
-About me: a writing and editing pro for a wide range of content and documentation. 
-
-API documentation and other writing samples are [here.](https://bennetthub500.github.io/personal/portfolio/) 
-
-An online [resume](https://bennetthub500.github.io/personal/cv.html) is also included.  I look forward to hearing from you on email or [LinkedIn.](https://www.linkedin.com/in/bennett-charles-690978/)  
+You can take a look at my [writing portfolio](https://bennetthub500.github.io/personal/portfolio/), including API documentation, and review my online [resume](https://bennetthub500.github.io/personal/cv.html).  I look forward to hearing from you on email or [LinkedIn.](https://www.linkedin.com/in/bennett-charles-690978/)  
