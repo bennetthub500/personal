@@ -8,7 +8,7 @@ The client has been anonymized in this 750-word piece.
 
 ## How DatabaseCo Handles Data Deduplication 
 
-“There are two major problems with distributed data systems. The second is out of order messages. The first is duplicate messages. The third is off-by-one errors. And the first is duplicate messages.”  Yes, this is a vintage example of database humor.  But it also illustrates the inspiration for DatabaseCo to solve the data duplication issue, which we call deduplication.  This blog post is a high-level overview of how DatabaseCo solves deduplication through field transformations. 
+Data duplication, or deduplication, is an important and resources-intensive challenge with distributed data systems.  This blog post is a high-level overview of how DatabaseCo solves the deduplication problem through field transformations. 
 
 ### The Deduplication Problem 
 
