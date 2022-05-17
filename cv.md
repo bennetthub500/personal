@@ -28,7 +28,7 @@ August 2021 - Current, San Francisco, CA
 
 **Technical Writer and Communications Consultant**
 October 2019 - July 2021, San Mateo, CA
-- Initial projects: GraphQl API developer documentation and publishing toolchain requirements/setup for an AI startup.  Also focusing on REST API, end-user documentation and marketing content
+- Projects included developer reference and API documentation (REST and GraphQL) for AI/ML startup and content for martech startup
 
 **Communications, Office of Santa Clara County Supervisor Joe Simitian**
 February 2018 - July 2019, San Jose, CA
