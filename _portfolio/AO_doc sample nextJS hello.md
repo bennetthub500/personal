@@ -4,11 +4,15 @@ title: "Docs sample: Front End Frameworks 101"
 
 Front end frameworks 101 for technical writers with Next.js
 
-This tutorial enables you to create a Hello World page using Next.js, Node.js, and npm. Learning the basic setup from this Hello World demonstration is a useful introduction to development frameworks for technical writers.
+This tutorial enables you to create a Hello World page using Next.js, Node.js, and npm. Learning the basic setup from this Hello World demonstration is a useful introduction to development frameworks.
 
-[Next.js](https://nextjs.org) is a front-end framework for building apps or sites utilizing React components. [React](https://reactjs.org) is a JavaScript library for building user interfaces. Next.js is built on top of [Node.js](https://nodejs.org/en/), a runtime environment that allows you to run JavaScript on a server, not just your browser. [npm](https://www.npmjs.com) is the package manager for Node.js.
+In this tutorial you will use:
+- [Next.js](https://nextjs.org) - a front-end framework for building apps or sites utilizing React components. 
+- [React](https://reactjs.org) - a JavaScript library for building user interfaces. Next.js is built on top of [Node.js](https://nodejs.org/en/).
+- [Node.js](https://nodejs.org/en/) - a runtime environment that allows you to run JavaScript on a server, not just your browser. 
+- [npm](https://www.npmjs.com) - the package manager for Node.js.
 
-Instructions and images assume you are using MacOS, but there is no significant difference for Windows. 
+Instructions and images in this tutorial assume you are using MacOS, but there is no significant difference for Windows. 
 
 
 1
@@ -119,4 +123,4 @@ Visit http://localhost:3000 in a web browser to see the final result with the ne
 
 You have now successfully installed a React component with the Hello World Next.js app.
 
-For an introduction to CSS in React, you can style the button with CSS Modules in React. Next.js has [native support](https://nextjs.org/docs/basic-features/built-in-css-support#adding-component-level-css) for CSS Modules.
+For further design options, you can style the button with CSS Modules in React. Next.js has [native support](https://nextjs.org/docs/basic-features/built-in-css-support#adding-component-level-css) for CSS Modules.
