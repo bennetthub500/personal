@@ -15,13 +15,13 @@ The content is a mix of support instructions, with occasional context about how 
 
 **Why am I asked to let Handle know my location? What does location do?**
 
-Handle’s location-based reminders let you set any to-do or email to send you a reminder that is specific to your current location.  For example, you might need to be reminded to do something when you’re in a certain place, such as home, or are near a bank.  This is how Handle enables you to get the right tasks done at the right place and time.  
+Handle’s location-based reminders let you set any to-do or email to send you a reminder that is specific to your current location.  For example, you might need to be reminded to do something when you’re in a certain place, such as home, or are near a store.  This is how Handle enables you to get the right tasks done at the right place and time.  
 
 To set a location-based reminder:  
 - Tap **Reminders** and **Set a reminder**. You will see the time categories such as "This morning", "This afternoon", etc.  
 - Change the "When" selection at the top of the screen to "Where."  
 - Tap **New location** to create a location or select from the list of existing locations.
-- Click **Save.**
+- Click **Save**.
 
 
 **What does archive do?**
@@ -31,7 +31,7 @@ Archiving removes emails from your inbox view, but it does not permanently delet
 
 **What is Read Later?**
 
-**Read Later** is for lower-priority emails for which you won’t create a to-do or reminder. Read Later gives you a way to clear them from your inbox but always find them later by going to the "Read Later" label, or by searching for them.   
+**Read Later** in the Handle app is for lower-priority emails for which you won’t create a to-do or reminder. Read Later gives you a way to clear them from your inbox but always find them later by going to the "Read Later" label in Gmail, or by searching for them.   
 
 To remove an email from Read Later: 
 - In your desktop Gmail, go to the "Read Later" label in the left navigation.
@@ -41,12 +41,14 @@ To remove an email from Read Later:
 
 **Can I turn on push email notifications?**
 
-Handle is working to break the habit of being constantly reactive to the inbox, so we are launching without notifications for individual emails. If this type of notification is important to you, we’d love to know - you can contact us in the app. Go to the Handle side navigation > Support > Send Feedback.
+Handle is working to break the habit of being constantly reactive to your inbox, so we are launching without notifications for individual emails. If this type of notification is important to you, we’d love to know - you can contact us in the app.  Go to the Handle side navigation > Support > Send Feedback.
 
 
 **How do I delete Handle?**
 
-Sorry to see you go! To delete Handle, delete the app on your device.  
+Sorry to see you go! 
+
+To delete the Handle app, delete the app on your device.  
 
 **Note**: It’s possible that one notification may come up after you delete, but they will stop after that.  You may notice that Handle created folders in your Gmail account - you can delete those manually, since Handle no longer touches them.
 
