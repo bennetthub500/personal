@@ -15,7 +15,7 @@ In this tutorial you will use:
 Instructions and images in this tutorial assume you are using MacOS, but there is no significant difference for Windows. 
 
 
-1 Check node.js installation
+1  Check node.js installation
 ---
 
 Open your terminal and check if Node.js is installed.
@@ -36,7 +36,7 @@ npm -v 
 NPX is bundled with NPM, so if you have one, you should have the other. Note that there are many ways to install these packages, which can affect the control of permissions on your computer, but this is outside of the scope of this tutorial. To keep it simple, if either Node or NPM are not installed, you can either install them from their respective websites, or install package managers such as [Yarn](https://yarnpkg.com/getting-started/migration) or [Brew](https://brew.sh).
 
 
-2 Install node.js app
+2  Install node.js app
 ---
 
 Install the next.js hello world app in a folder named /hello-world.
@@ -46,7 +46,7 @@ npx create-next-app --example hello-world hello-world
 When NPX is finished with the install, in your terminal you will see "Success! Created hello-world at [your directory]."
 
 
-3 Start the development server
+3  Start the development server
 ---
 
 Start the development server - this will allow you to view the Hello World app locally in a web browser.
@@ -64,7 +64,7 @@ Visit http://localhost:3000 in a web browser.  You should see “Hello World. Ab
 Next, stop the development server by using CTRL + C.
 
 
-4 Find the hello-world folder
+4  Find the hello-world folder
 ---
 
 Go to the user directory on your computer and find the hello-world folder we created earlier. Alternately, you can use a code editor to navigate the directory and create files and folders.
@@ -74,7 +74,7 @@ Click on the hello-world folder.
 ![screenshot](https://bennetthub500.github.io/personal/assets/images/directory_hello_folder.png)
 
 
-5 Create the React component folder
+5  Create the React component folder
 ---
 
 Create a new folder inside the hello world folder and name it “components.” This will be the location of a React [component](https://reactjs.org/docs/components-and-props.html).
@@ -94,7 +94,7 @@ Type the following, or copy and paste it, into Button.js and save:
 ```
 
 
-6 Import the React button component
+6  Import the React button component
 ---
 
 The next step is to import the React button component.  Navigate to hello-world/pages/index.js and open it. It should look like this:
@@ -114,7 +114,7 @@ Your code should now look like the following:
 ![screenshot](https://bennetthub500.github.io/personal/assets/images/import_button_after_adding.png)
 
 
-7 View the results in a browser
+7  View the results in a browser
 ---
 
 Visit http://localhost:3000 in a web browser to see the final result with the new button.
