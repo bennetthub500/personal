@@ -8,7 +8,7 @@ The client has been anonymized in this 750-word piece.
 
 ## How DatabaseCo Handles Data Deduplication 
 
-Data duplication, or deduplication, is an important and resources-intensive challenge with distributed data systems.  This blog post is a high-level overview of how DatabaseCo solves the deduplication problem through field transformations. 
+Data duplication, or deduplication, is an important and resource-intensive challenge with distributed data systems.  This blog post is a high-level overview of how DatabaseCo solves the deduplication problem through field transformations. 
 
 ### The Deduplication Problem 
 
