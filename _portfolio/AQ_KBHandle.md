@@ -4,7 +4,7 @@ title: "Knowledge base content: Handle"
 
 Knowledge Base Content for Handle mobile app
 
-The content is a mix of feature use instructions and content about the app's design.  The goal for the app was to utilize productivity best-practices to improve the user’s daily email, to-do and calendar performance.  It was originally hosted in Freshdesk.
+The content is a mix of feature use instructions and content about the app's design.  The goal for the app was to utilize productivity best-practices to improve the user’s daily email, to-do and calendar performance.  
 
 **Usage:**  Published in the Handle Freshdesk knowledge base, and also utilized as canned answers to email support questions.
 
