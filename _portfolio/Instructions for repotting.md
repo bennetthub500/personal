@@ -6,14 +6,14 @@ An exercise in instructional writing
 
 Why write a plant re-potting guide?
 
-It’s an interesting and non-obvious documentation exercise.  I recently began learning basic gardening tasks at home - and I was surprised at how difficult it was to find accurate and complete information about re-potting the specific plants that I had.
+It’s an interesting and non-obvious documentation exercise.  I recently began learning basic gardening tasks at home, and I was surprised at how difficult it was to find accurate and complete information about re-potting the specific plants that I had.  The below instructions are applicable to nearly all potted plants. 
 
 
 ## Assessment: do you need to re-pot?
 
 You need to re-pot your plant if any of the below are true:
-* Plant is too big for the pot.
-* Plant needs constant watering, as evidenced by wilting, leaf color, etc.
+* The plant is too big for the pot.
+* The plant needs constant watering, as evidenced by wilting, leaf color, etc.
 * Water remains on the soil surface long after watering.
 * Roots are visible on the surface of the soil.
 * Roots protrude from pot drainage holes or are breaking the pot.
