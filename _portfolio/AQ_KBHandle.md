@@ -2,7 +2,7 @@
 title: "Knowledge base content: Handle"
 ---
 
-Knowledge Base Content developed with product team for Handle mobile app
+Knowledge base content for end-users developed with product team for Handle mobile app
 
 At Handle I was embedded on the product team while also managing front-line support and community, including charter user groups. I was the go-to person for content because I attended product planning meeting, had deep experience on the UX team observing users, and had access to user analytics. 
 
