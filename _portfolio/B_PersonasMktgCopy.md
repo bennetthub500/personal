@@ -2,7 +2,7 @@
 title: "Marketing copy: sales automation startup"
 ---
 
-Copywriting - Hubspot marketing campaign landing pages 
+Copywriting - Hubspot marketing campaign landing pages targeting sales and marketing leaders
 
 Here are two landing pages for Personas, a B2B sales automation platform that targets startups. 
 
