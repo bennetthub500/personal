@@ -4,7 +4,7 @@ title: Blog sample for database product
 
 Technical blog post for database company
 
-The client has been anonymized in this 750-word piece. I was given raw interview video footage and assigned with shaping a blog post, with a few points of focus as guidance.  My approach to blog posts is to be as succinct as possible, since they are rarely read.  I always inquire as to the goals of the post: whether it's intended to be pre-sale, implementation, or support content, and if metrics can be applied to evaluate its success. The version shown here is my work; subsequent versions of this post had additional contributions from engineers and were substantially re-written, with a much longer word count.  
+The client has been anonymized in this 750-word piece. I was given raw interview video footage and assigned with shaping a blog post, with a few points of focus as guidance.  My approach to blog posts is to be as succinct as possible, since they are rarely read in full.  I always inquire as to the goals of the post: whether it's intended to support pre-sale, implementation, or support goals, and if metrics can be applied to evaluate its success. The version shown here is my work; subsequent versions of this post had additional contributions from engineers and were substantially re-written, with a much longer word count.  
 
 ## How DatabaseCo Handles Data Deduplication 
 
