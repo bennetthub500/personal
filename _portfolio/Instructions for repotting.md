@@ -2,7 +2,7 @@
 title: "Instructions sample: How to re-pot plants"
 ---
 
-Instructional writing sample
+Instructional writing sample for general audience
 
 Why write a plant re-potting guide?
 
