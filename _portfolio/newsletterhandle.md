@@ -2,7 +2,7 @@
 title: "Newsletter sample: email app beta user audience"
 ---
 
-Newsletter announcing new features and soliciting new beta participants for an email, to-dos, and calendar app.
+Newsletter announcing new features and soliciting new beta participants for an email, to-dos, and calendar app
 
 A PDF of the actual newsletter is [here.](https://github.com/bennetthub500/personal/blob/master/assets/images/Handle%20newsletter%20sample.pdf)  The below text is identical except for a few images and HTML styling for MailChimp.
 
