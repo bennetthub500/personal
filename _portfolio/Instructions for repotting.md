@@ -6,7 +6,7 @@ An exercise in instructional writing
 
 Why write a plant re-potting guide?
 
-It’s an interesting and non-obvious documentation exercise.  I recently began learning basic gardening tasks at home, and I was surprised at how difficult it was to find accurate and complete information about re-potting the specific plants that I had.  The below instructions are applicable to nearly all potted plants. 
+It’s an interesting documentation exercise for a technical writer becasue the procedures are physical.  I had recently began learning basic gardening tasks at home, and I was surprised at how difficult it was to find accurate and complete information about re-potting the specific plants that I had.  The below instructions are applicable to nearly all potted plants. 
 
 
 ## Assessment: do you need to re-pot?
