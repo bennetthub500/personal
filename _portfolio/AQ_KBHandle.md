@@ -4,9 +4,9 @@ title: "Knowledge base content: Handle"
 
 Knowledge base content for end-users developed with product team for Handle mobile app
 
-At Handle I was embedded on the product team while also managing front-line support and community, including charter user groups. I was the go-to person for content because I attended product planning meeting, had deep experience on the UX team observing users, and had access to user analytics. 
+At Handle I was embedded on the product team while also managing front-line support and community, including charter user groups. I was the go-to person for content because in addition to support experience I attended product planning meetings, and spent time on the UX team observing users and conducting surveys and customer development interviews. I also had access to user analytics. 
 
-The content is primarily feature use instructions combined wity content about the app's design philosophy.  The app's value-add for users was to utilize productivity best-practices to improve daily email, to-do and calendar productivity.  
+The content is primarily feature use instructions combined with content about the app's design philosophy.  The app's value-add for users was to utilize productivity best-practices to improve daily email, to-do and calendar productivity.  
 
 **Usage:**  Published in the Handle Freshdesk knowledge base, and also utilized as canned answers to email support questions.
 
