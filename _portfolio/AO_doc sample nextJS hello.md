@@ -4,7 +4,9 @@ title: "Docs sample: Front End Frameworks 101"
 
 Front end frameworks 101 procedural for beginners with Next.js
 
-For a project where I needed to learn the basics of front end frameworks, I was unable to easily find hello-world content where a beginner could learn about Next.js, Node.js, and npm by installing them. I decided to create this tutorial to document these first-steps. It also serves as a procedural writing sample.  
+A self-created procedural writing sample. For a project where I needed to learn the basics of front end frameworks, I was unable to easily find hello-world content where a beginner could learn about Next.js, Node.js, and npm by installing them. I decided to create this tutorial to document these first-steps.  
+
+## Front End Frameworks 101
 
 In this tutorial you will use:
 - [Next.js](https://nextjs.org) - a front-end framework for building apps or sites utilizing React components. 
