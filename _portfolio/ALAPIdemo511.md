@@ -4,7 +4,7 @@ title: "API documentation demo"
 
 A demonstration of REST API documentation and publishing using the Open API v3.0 spec 
 
-You can view two versions of this writing sample:
+You can view two versions of this self-created writing sample:
 
 1) [Stoplight](https://bennett-charles.stoplight.io/docs/511api-demo/branches/main/mfrt8ye1a09uh-using-the-511-org-api), with a more-readable, contemporary 3-panel design.
 
