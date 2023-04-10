@@ -4,12 +4,14 @@ title: "Press release: complex public topic"
 
 Journalistic press release explaining a complex public topic, a traffic initiative that created safe routes for students to walk and bike to school
 
-Written for Santa Clara County Supervisor Joe Simitian in the style of a newspaper story, 860 words.  This style enables easy cut and paste re-use by journalists or editors at budget-strapped local publications.
+**Client context:**  Written for Santa Clara County Supervisor Joe Simitian, addressing cities with over 100,000 in population, inside of a district with over 2 million in population. 
 
-**Challenge:**  To explain the effects of a traffic regulation, and describe the dry network of relationships of the relevant entities and the project’s obstacles.
+**Process for this document:**  Written in the style of a newspaper story, 860 words. I consulted with SME team members and Supervisor Simitian before drafting; I also handled media distribution. 
+
+**Audience and problems to solve:** The goal was to enable easy cut and paste re-use by journalists or editors at local publications, and to explain to citizens a specific new traffic regulation addressing an onging safety problem.  The network of relationships of the relevant government and non-government entities and the project’s obstacles are complex and also required explanation.
 
 
-**Simitian Proposes Safe Routes To School On Homestead Road Corridor**
+## Simitian Proposes Safe Routes To School On Homestead Road Corridor**
 
 San Jose - The Santa Clara County Board of Supervisors will consider a proposal by Board President Joe Simitian to expand the Safe Routes to School program on the Homestead Road corridor, which serves students in Los Altos, Cupertino, and Sunnyvale.
 
