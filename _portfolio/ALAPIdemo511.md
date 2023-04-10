@@ -10,7 +10,9 @@ You can view two versions of this writing sample:
 
 2) [Swaggerhub](https://app.swaggerhub.com/apis-docs/bennetthub500/default-title/0.1), an older interface design with a working Try-it feature where the reader can make a live API call.
 
-This API example brings an under-documented public API up to current standards for API docs. I took three endpoints from the API of 511.org, a San Francisco Bay Area transit organization, and implemented them in the Open API spec. It includes an abbreviated developer guide or quick start with code samples and procedural instructions, plus reference documentation.  
+- This API example brings an under-documented public API up to current standards for API docs. 
+- I implemented three endpoints in the OpenAPI spec from the API of 511.org, a San Francisco Bay Area transit organization. 
+- I created an abbreviated developer guide or quick start with code samples, procedural instructions and some partial reference content.
 
 My current API documentation experience is with material covered by an NDA that can't be shared. 
 
