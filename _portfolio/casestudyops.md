@@ -4,12 +4,14 @@ title: "Case study: OpsTechnology"
 
 Case study sample for OpsTechnology, a b2b real estate services marketplace - 400 words
 
-**Audience profile**: vendors who sell products to multi-family real estate management companies.  The goal is to recruit more participants for the web-based vendor marketplace from which management companies can purchase.  Reader demographics vary; many but not all are college educated, and most have limited experience with business SaaS technology.
+**Company contenxt:** OpsTechnology was a late-stage startup with significant revenue.  This case study is conventional marketing material. 
 
-**Usage**:  website and printed collateral for sales reps
+**Process for this document**: I orient case studies around a before-and-after dynamic, with the results tied to product differentiation whenever possible.  This piece was developed via conversations with the founder and COO and a conversation with the customer.  The content was used on the web and as sales collateral.  
+
+**Audiences:**  This piece targets vendors who sell products to multi-family real estate management companies.  The goal is to recruit more participants for the web-based vendor marketplace from which management companies can purchase.  Reader demographics vary; many but not all are college educated, and most have limited experience with business SaaS technology.website and printed collateral for sales reps
 
 
-**Vendor profile**
+## OpsTechnology Community profile
 
 Global Gate Controls, a supplier of more than 500 models of gate and garage remotes and access cards, is using OpsTechnology to establish credibility with potential customers, increase sales, and achieve significant marketing hours savings. Although Global Gate is a successful and growing company, it faced challenges common to small suppliers in the multi-family housing industry: high marketing costs due to staff turnover at management companies, as well as difficulty in overcoming the resistance of remote staff to working with new vendors.
 
