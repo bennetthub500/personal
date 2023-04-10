@@ -10,6 +10,6 @@ Copywriting - Hubspot-hosted marketing campaign landing pages targeting sales an
 
 **Audience:** The audience for the [first piece](https://bennetthub500.github.io/personal/pdfs/PersonasFoundersLanding2.pdf) is founders and heads of sales, and the [second piece](https://bennetthub500.github.io/personal/pdfs/PersonasMktgLanding3.pdf) is aimed at marketing leads.  
 
-The stylistic goals for both were brevity, with punchy language, a crisp definition of benefits and deliberate repetition.  The primary message goals was to emphasize ease-of-use and effectiveness. 
+The stylistic goals for both were brevity, with punchy language, a crisp definition of benefits and deliberate repetition.  The primary message goal was to emphasize ease-of-use and effectiveness. 
 
 
