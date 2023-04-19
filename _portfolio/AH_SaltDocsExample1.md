@@ -7,7 +7,7 @@ Open source configuration management product docs update
 Completed a major content update to an important documentation page for SaltStack, an open source configuration management and remote execution product.   
 
 - View the [original document](https://docs.saltproject.io/en/latest/ref/states/all/salt.states.file.html#salt.states.file.comment) live
-- View the [edited document PDF](https://bennetthub500.github.io/personal/pdfs/SaltDocsExample1.pdf)) - edits in highlight, deletions in strikethrough
+- View the [edited document PDF](https://bennetthub500.github.io/personal/pdfs/SaltDocsExample1.pdf) - edits in highlight, deletions in strikethrough
 
 **Company context:** SaltStack, an open source application initially released in 2011 and now owned by VMWare, has a very large and fragmented set of docs utilizing a dated custom implementation of Sphinx.  As part of Salt’s long term docs plan, the revised Python module documentation page in this example is intended to serve as an example for all other Salt modules pages.  
 
