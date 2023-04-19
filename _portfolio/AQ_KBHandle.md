@@ -7,7 +7,7 @@ Knowledge base content for end-users for Handle mobile app
 **Company contenxt:** Handle was an early-stage startup ramping up to its second launch with an extensively redesigned product.  The product was already available to beta users. At Handle I was embedded on the product team while also managing front-line support and community, including charter user groups. 
 I was the go-to person for content because in addition to support experience I attended product planning meetings, and spent time on the UX team observing users as well as conducting surveys and customer development interviews. I also had access to user analytics. 
 
-**Process for this document:**. From observing analytics and answering support questions I saw that users were struggling with certain features.  In response, I drafted this FAQ, which would be published in our KB.  I knew the product well-enought to not utilize SME's to create the content.  
+**Process for this document:**. From observing analytics and answering support questions I saw that users were struggling with certain features.  In response, I drafted this FAQ, which would be published in our KB.  I knew the product well-enough to not utilize SME's to create the content.  
 
 **Audience and problems to solve:**  The content consists of feature use instructions and related information about the app's design philosophy.  The app's value-add for users was to utilize productivity best-practices to improve daily email, to-do and calendar productivity.  The Beta users were early-adopter, tech-savvy consumers that were harvested from Handle’s TechCrunch Disrupt launch and semi-private beta campaigns.   The key challenge is to get users to not only learn new features, but to change ingrained behaviors.
 
