@@ -2,8 +2,7 @@
 title: Curriculum Vitæ
 layout: page
 ---
-### <a href="Bennett_Charles_2022-2.pdf">Download PDF</a><br/>
-### <a href="Bennett_Charles_2022.docx">Download Word</a><br/>
+### <a href="Bennett_Charles_2023-2.pdf">Download PDF</a><br/>
 <br/>
 
 **Bennett Charles**<br/>
@@ -14,7 +13,7 @@ San Mateo, CA<br/>
 
 Technical writer and editor for a diverse range of audiences, including developers, users, and customers.  Versatile content creator and collaborator with product, design, UX, marketing, sales, engineering.
 
-**Authoring and publishing**: Markdown, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress, MediaWiki<br/>
+**Authoring and publishing**: Markdown, reStructuredText, Sphinx, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress<br/>
 **Technical tools**:  Github, Postman, Stoplight, OpenAPI, Swagger, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
 **Programming**:  Can read Python, JavaScript<br/>
 **Operating systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
@@ -22,9 +21,13 @@ Technical writer and editor for a diverse range of audiences, including develope
 
 **History**
 
+**Technical Writer (Open Source volunteer), SaltStack**
+September 2022 - current
+- Contributed to reference docs and developed text and docstring-based documentation templates for Python modules - their functions are similar to API calls - for SaltStack, a remote execution and configuration management product 
+
 **Technical Writer, Kick Designs**
-August 2021 - Current, San Francisco, CA
-- Edited and wrote reference and implementation documentation for security and database clients in a docs-as-code environment using Github and various publishing platforms.
+August 2021 - August 2022, San Francisco, CA
+- Edited and wrote reference and implementation documentation for security and database clients in a docs-as-code environment using Github and various publishing platforms
 
 **Technical Writer and Communications Consultant**
 October 2019 - July 2021, San Mateo, CA
