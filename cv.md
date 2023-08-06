@@ -15,7 +15,7 @@ Technical writer and editor for a diverse range of audiences, including develope
 
 **Authoring and publishing**: Markdown, reStructuredText, Sphinx, Jekyll, Hugo, Github Pages, MS Word, MS Sharepoint, Confluence, Quip, WordPress<br/>
 **Technical tools**:  Github, Postman, Stoplight, OpenAPI, Swagger, JIRA, Pivotal Tracker, PowerPoint, Zendesk, Freshdesk,  Salesforce CRM<br/>
-**Programming**:  Can read Python, JavaScript<br/>
+**Programming**:  Can read Python and JavaScript, SQL<br/>
 **Operating systems**: Mac OS, Apple iOS, Windows 10, Android<br/>
 **Online courses**:  Coding for Writers, Basic Programming (Udemy); Learn API Technical Writing, JSON and XML for Writers (Udemy) 
 
@@ -23,7 +23,7 @@ Technical writer and editor for a diverse range of audiences, including develope
 
 **Technical Writer (Open Source volunteer), SaltStack**
 September 2022 - current
-- Contributed to reference docs and developed text and docstring-based documentation templates for Python modules - their functions are similar to API calls - for SaltStack, a remote execution and configuration management product 
+- Contributed to reference docs and developed text and docstring-based documentation templates for Python modules for SaltStack, a remote execution and configuration automation product for cloud infrastructure and DevOps
 
 **Technical Writer, Kick Designs**
 August 2021 - August 2022, San Francisco, CA
@@ -35,10 +35,8 @@ October 2019 - July 2021, San Mateo, CA
 
 **Communications, Office of Santa Clara County Supervisor Joe Simitian**
 February 2018 - July 2019, San Jose, CA
-- Directed digital content and outreach strategy, managed website migration for district of 400,000 constituents encompassing Silicon Valley
-- Wrote opinion by-lines and press material; curated and edited web content
-- Created, edited, wrote new district email newsletter
-- Project-managed public events, video and photography production, website design 
+- Directed digital content design and outreach events strategy; managed web development and migration for district of 400,000 constituents encompassing Silicon Valley
+- Wrote opinion by-lines, press releases, newsletters; curated and edited web content
 
 **Tech Communications and Operations Consultant**
 August 2010 - July 2017<br/>
@@ -47,11 +45,10 @@ Highlights:<br/>
 *Handle* (mobile+web email/to-do app)<br/>
 - Content for support, community and product, including knowledge base 
 - Conducted UX lab studies, journey mapping, surveys, customer development interviews 
-- Launched mobile app to 100,000 users; drove input to roadmap as voice of customer; analyzed user data re: feature adoption & churn<br/>
+- Launched mobile app to 100,000 users; drove input to roadmap as voice of customer<br/>
 
 *Buyer's Best Friend* (web b2b food marketplace)<br/>
-- Hired, managed, trained data and onboarding team of 10 
-- Wrote user manuals, managed customer service and Tier 1 and 2 support 
+- Hired, managed, trained data and onboarding team of 10; Managed Tier 1 and 2 support 
 - Grew seller catalog 5X "selling" freemium listings; oversaw 9X catalog growth<br/>
 
 *Salesforce*<br/>
