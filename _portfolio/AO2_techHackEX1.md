@@ -2,7 +2,7 @@
 title: "Tech hack example: using regex to clean and format data"
 ---
 
-Tech hack example - regex to clean and format data
+A creative tech hack - using regular expressions and spreadsheets to clean and format data for input
 
 I created a data cleaning and formatting method using regular expressions to accelerate web content setup for customers at a wholesale food marketplace startup. 
 
