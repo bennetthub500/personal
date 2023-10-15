@@ -8,7 +8,7 @@ A technical writer might want to constantly be checking which files in a repo ha
 
 - You can view the [test repo](https://github.com/bennetthub500/github-demos) here.  
 
-- View the[log](https://bennetthub500.github.io/personal/pdfs/TechHackBBFScreen.pdf) of one workflow test run by me, where I altered a file named Test file 1.txt in this test repo.   
+- View the [log](https://bennetthub500.github.io/personal/pdfs/TechHackScreenshot_GH_Actions.png) of one workflow test run by me, where I altered a file named Test file 1.txt in this test repo.   
 
 Another way of automating this task could involve writing a shell script.  I learned recently that Github Actions is increasingly popular and easy to implement, so I wanted an excuse to explore it.  
 
