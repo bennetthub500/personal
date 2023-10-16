@@ -14,5 +14,5 @@ I created a test repository, and utilized Github Actions to create a workflow to
 
 Another way of automating this task could involve writing a shell script.  The Github Action I used was pre-written. You can use many off the shelf actions, and contribute your own.  
 
-Another use case for technical writers could be to implement the pre-written [Vale linter](https://github.com/marketplace/actions/vale-linter) Github action to perform style guide checks, or other custom workflows. 
+Another use case for technical writers could be to implement the pre-written [Vale linter](https://github.com/marketplace/actions/vale-linter) Github Action to perform style guide checks, or other custom workflows. 
 
