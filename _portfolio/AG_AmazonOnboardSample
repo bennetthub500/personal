@@ -13,7 +13,7 @@ Completed a rewrite of an important documentation page for Amazon Music.
 
 **Problems to solve:** Onboarding for internal devs often took 2 or 3 entire days.  Most GraphQL fields had no descriptions at all. The team never had a technical writer, and existing docs were written by multiple engineers, utilized inconsistent style, and were frequently out-of-date, missing product changes and deprecations. 
 
-**Process for this document:**  I onboarded myself, logged all friction, and collaborated closely with an engineer and other team members to create a new sequence of installation and authentication steps.  The rewritten doc resulted in an immediate reduction in blockers and support tickets. 
+**Process for this document:** I onboarded myself, logged all friction, and collaborated closely with an engineer and other team members to create a new sequence of installation and authentication steps.  The rewritten doc resulted in an immediate reduction in blockers and support tickets. 
 
 Issues addressed:
 - Removed outdated/incorrect content
