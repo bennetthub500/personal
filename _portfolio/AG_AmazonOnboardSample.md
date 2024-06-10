@@ -22,5 +22,5 @@ Issues addressed:
 - Added or modified code samples and processes as needed, such as adding scripts, collaborating with engineer
 - Copyedits to remaining content
 
-**Audience and problems to solve:** The audiences for the onboarding docs are internal Amazon engineers and third party developers.
+**Audience:** The audiences for the onboarding docs are internal Amazon engineers and third party developers.
 
