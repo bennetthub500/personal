@@ -21,8 +21,12 @@ Technical writer and editor for a diverse range of audiences, including develope
 
 **History**
 
+**Technical Writer, Amazon** (contract)
+April 2024 - July 2024, San Francisco, CA
+- Worked on Amazon Music developer experience team to rewrite GraphQL API and onboarding documentation for internal and 3rd party developers, including getting started guides, installation and reference docs. Completed 95% of docs in plan I co-developed.
+
 **Technical Writer (Open Source volunteer), SaltStack**
-September 2022 - current
+September 2022 - January 2024
 - Contributed to reference docs and developed text and docstring-based documentation templates for Python modules for SaltStack, a remote execution and configuration automation product for cloud infrastructure and DevOps
 
 **Technical Writer, Kick Designs**
