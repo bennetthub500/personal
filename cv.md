@@ -2,7 +2,7 @@
 title: Curriculum Vitæ
 layout: page
 ---
-### <a href="Bennett_Charles_2023-2.pdf">Download PDF</a><br/>
+### <a href="Bennett_Charles_2024.pdf">Download PDF</a><br/>
 <br/>
 
 **Bennett Charles**<br/>
