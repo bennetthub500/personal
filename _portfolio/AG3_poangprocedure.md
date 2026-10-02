@@ -1,5 +1,5 @@
 ---
- title: "Docs sample: Assembly procedure from an interview test""
+ title: "Docs sample: Assembly procedure from an interview test"
 ---
 
 Interview assignment for procedural documentation - the use of images was not allowed.
